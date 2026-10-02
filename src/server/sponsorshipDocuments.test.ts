@@ -1,0 +1,3 @@
+import { describe, expect, it } from 'vitest';
+import { createInvoicePdf } from './sponsorshipDocuments';
+describe('sponsorship documents',()=>{it('generates a valid PDF envelope without leaking unsupported characters',()=>{const pdf=createInvoicePdf({id:'i',sponsorId:'s',sponsorName:'Example',invoiceNumber:'LOT-SP-2026-001',amount:1000,taxAmount:200,currency:'MAD',paymentStatus:'SENT',issuedAt:'2026-07-01T00:00:00.000Z',dueDate:'2026-07-31T00:00:00.000Z',paidAmount:0,outstandingAmount:1200,createdAt:'2026-07-01T00:00:00.000Z',updatedAt:'2026-07-01T00:00:00.000Z'});expect(pdf.subarray(0,8).toString()).toBe('%PDF-1.4');expect(pdf.toString()).toContain('LOT-SP-2026-001');expect(pdf.toString()).toContain('startxref');});});

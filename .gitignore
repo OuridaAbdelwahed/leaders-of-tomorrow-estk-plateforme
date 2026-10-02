@@ -1,0 +1,43 @@
+.next/
+.next-cpanel/
+release/
+edge-*/
+qa-edge*/
+qa-chatbot/
+*.tsbuildinfo
+node_modules/
+.env
+.env.local
+.env.*
+!.env.example
+coverage/
+*.log
+database/exports/*.sql
+database/exports/*.zip
+
+# Local tooling, browser profiles and visual QA
+.agents/
+.codex/
+qa-*/
+*-current.png
+qa-*.png
+.DS_Store
+Thumbs.db
+
+# Private member records and uploads (keep local)
+public/media/members/
+public/uploads/
+scripts/import-members.mjs
+database/exports/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Unused design references and legacy source assets
+public/media/legacy/
+src/components/chatbot/assistant-reference.png
+public/brand/logo-estk.png.png
+
+public/media/gallery/media_20260226_024505_caa02856.mp4
+public/media/people/director.jpeg

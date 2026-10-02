@@ -1,0 +1,49 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Background Gradient -->
+    <radialGradient id="bgGrad" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#142437"></stop>
+      <stop offset="100%" stop-color="#0A121D"></stop>
+    </radialGradient>
+
+    <!-- Teal Star Gradient -->
+    <radialGradient id="starGrad">
+      <stop offset="0%" stop-color="#9ED0DA"></stop>
+      <stop offset="100%" stop-color="#5C8F9C"></stop>
+    </radialGradient>
+
+    <!-- Yellow Star Gradient -->
+    <radialGradient id="goldGrad">
+      <stop offset="0%" stop-color="#FFE27A"></stop>
+      <stop offset="100%" stop-color="#F2B705"></stop>
+    </radialGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="coloredBlur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+  <circle cx="120" cy="120" r="110" fill="url(#bgGrad)"></circle>
+
+  <!-- Lines -->
+  <line x1="80" y1="170" x2="80" y2="110" stroke="#7DAEB9" stroke-width="3" stroke-linecap="round" opacity="0.7"></line>
+  <line x1="80" y1="110" x2="150" y2="110" stroke="#7DAEB9" stroke-width="3" stroke-linecap="round" opacity="0.7"></line>
+  <line x1="150" y1="110" x2="180" y2="80" stroke="#7DAEB9" stroke-width="3" stroke-linecap="round" opacity="0.7"></line>
+
+  <!-- Small Stars -->
+  <circle cx="80" cy="170" r="7" fill="url(#starGrad)"></circle>
+  <circle cx="80" cy="110" r="7" fill="url(#starGrad)"></circle>
+  <circle cx="150" cy="110" r="7" fill="url(#starGrad)"></circle>
+
+  <!-- Main Star -->
+  <circle cx="180" cy="80" r="9" fill="url(#goldGrad)" filter="url(#glow)"></circle>
+
+</svg>

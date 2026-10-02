@@ -1,0 +1,9 @@
+import { DiscountOutlined, SchoolOutlined, VerifiedOutlined } from '@mui/icons-material';
+import { Box, Stack, Typography } from '@mui/material';
+import type { Metadata } from 'next';
+import { StudentDiscountCenter } from '@/components/sponsorship/StudentDiscountCenter';
+import { CampaignPlacement } from '@/components/sponsorship/CampaignPlacement';
+import { localizedMetadata } from '@/lib/site';
+export const dynamic='force-dynamic';
+export async function generateMetadata({params}:{params:Promise<{locale:string}>}):Promise<Metadata>{const {locale}=await params;return localizedMetadata({locale,path:'student-discounts',title:locale==='ar'?'خصومات الطلاب':'Student Discount Center',description:locale==='ar'?'عروض وخصومات موثقة للطلاب من شركائنا.':'Verified student offers and discounts from our partners.'});}
+export default async function StudentDiscountPage({params}:{params:Promise<{locale:string}>}){const {locale}=await params;const ar=locale==='ar';return <><Box className="offers-hero"><Box className="offers-orb"/><Box className="container"><Stack direction="row" gap={1} alignItems="center"><SchoolOutlined/><Typography className="eyebrow">{ar?'مزايا الطلاب':'STUDENT BENEFITS'}</Typography></Stack><Typography component="h1" variant="h1">{ar?'أكثر من بطاقة طالب.':'Your student card, unlocked.'}</Typography><Typography>{ar?'اكتشف عروضًا حقيقية من شركائنا في المطاعم والتقنية والكتب والنقل والتعليم والمزيد.':'Discover real offers from our partners across food, technology, books, transport, education, and more.'}</Typography><Stack direction="row" gap={2} className="offers-trust-row"><span><VerifiedOutlined/>{ar?'شركاء موثقون':'Verified partners'}</span><span><DiscountOutlined/>{ar?'رموز فورية':'Instant codes'}</span></Stack></Box></Box><Box className="container section"><CampaignPlacement placement="STUDENT_OFFERS" variant="native"/><StudentDiscountCenter locale={locale}/></Box></>}

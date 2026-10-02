@@ -1,0 +1,355 @@
+TERMS OF SERVICE
+Leaders of Tomorrow Platform
+Version 1.0
+
+Effective Date: 29 July 2026
+
+Last Updated: 29 July 2026
+
+TABLE OF CONTENTS
+Introduction
+Definitions
+Acceptance of Terms
+Eligibility
+User Accounts
+Membership
+Membership Contributions
+Digital Membership Badge
+Event Registration
+Event Tickets
+Event Attendance
+Certificates
+Donations
+Community Rules
+User Responsibilities
+Prohibited Activities
+Intellectual Property
+Artificial Intelligence Services
+Privacy
+Platform Security
+Third-Party Services
+Suspension & Termination
+Limitation of Liability
+Disclaimer
+Modifications
+Governing Law
+Contact Information
+1. Introduction
+
+Welcome to the Leaders of Tomorrow Platform ("Platform", "Website", "System").
+
+The Platform is owned and operated by Leaders of Tomorrow, a student club dedicated to leadership, innovation, entrepreneurship, technology, education, volunteerism, and community development.
+
+These Terms of Service ("Terms") govern your access to and use of the Platform and all related services.
+
+By creating an account, registering for membership, participating in an event, making a donation, downloading a certificate, or otherwise using any part of the Platform, you acknowledge that you have read, understood, and agree to be bound by these Terms.
+
+If you do not agree with these Terms, you must not use the Platform.
+
+2. Definitions
+
+For the purposes of these Terms:
+
+Platform refers to the Leaders of Tomorrow website and all associated digital services.
+Club refers to Leaders of Tomorrow.
+Member means an approved user who has successfully completed the membership process.
+Visitor means any individual accessing the Platform without membership.
+Executive Board means the governing body responsible for managing the Club.
+Digital Badge means the official electronic membership identification issued by the Club.
+Event means any physical or virtual activity organized or co-organized by the Club.
+Ticket means a digital entry authorization issued through the Platform.
+QR Code means the unique code used to verify tickets and membership.
+Contribution means the annual membership fee.
+Donation means a voluntary financial contribution made to support the Club.
+Sponsor means an organization or individual supporting Club activities.
+3. Acceptance of These Terms
+
+By using the Platform, you confirm that:
+
+You are legally permitted to use the Platform.
+You accept these Terms.
+You agree to comply with all applicable laws and regulations.
+You agree to comply with the Club's Internal Regulations, Privacy Policy, Code of Conduct, and all related policies.
+4. Eligibility
+
+To use the Platform, you must:
+
+Be at least 16 years old, or have any required authorization under applicable laws.
+Provide accurate and truthful information.
+Not be prohibited from using online services under applicable laws.
+Maintain only one personal account.
+
+The Club reserves the right to refuse or revoke access where eligibility requirements are not met.
+
+5. User Accounts
+
+Each user may create only one account.
+
+During registration, you may be required to provide:
+
+Full name
+Institutional email or personal email
+Student ID (where applicable)
+Academic program
+Profile photograph
+Curriculum Vitae (CV) for membership applications
+
+You are responsible for maintaining the confidentiality of your account credentials and for all activities performed under your account.
+
+6. Membership
+
+Membership applications must be submitted exclusively through the official Platform.
+
+To apply for membership, applicants must:
+
+Complete all required information.
+Upload a recent personal photograph.
+Upload a Curriculum Vitae (CV).
+Accept the Club's Internal Regulations.
+Accept these Terms and the Privacy Policy.
+Pay the required membership contribution.
+
+Membership is not automatically granted. Approval is subject to review by the Executive Board or an authorized committee.
+
+The Club reserves the right to approve, reject, suspend, or revoke any membership application in accordance with its regulations.
+
+7. Membership Contribution
+
+The annual membership contribution is determined by the Club.
+
+The minimum contribution is 50 MAD unless otherwise announced.
+
+Membership contributions help support:
+
+Educational activities
+Community projects
+Technical workshops
+Sports events
+Digital platform maintenance
+Club operations
+
+Unless required by law, membership contributions are non-refundable.
+
+8. Digital Membership Badge
+
+Approved members receive a digital membership badge through the Platform.
+
+The badge may include:
+
+Member's name
+Membership ID
+Profile photograph
+QR Code
+Membership status
+Validity period
+
+The badge is personal and non-transferable.
+
+Attempting to use another person's badge or allowing another person to use your badge is strictly prohibited.
+
+9. Event Registration
+
+The Platform allows users to register for events organized by the Club.
+
+Registration does not automatically guarantee participation where capacity limits apply.
+
+The Club reserves the right to:
+
+Limit participation.
+Close registrations.
+Cancel registrations.
+Modify event schedules.
+10. Event Tickets
+
+Unless otherwise specified, event tickets are free of charge.
+
+To ensure fairness:
+
+One verified account may obtain only one ticket per event.
+Tickets are issued only after successful verification.
+Tickets are personal and non-transferable.
+Tickets may not be sold, exchanged, auctioned, or transferred.
+
+Duplicate or fraudulent registrations may be automatically rejected.
+
+11. Ticket Verification & Security
+
+To protect events from abuse, the Platform may use:
+
+Email One-Time Password (OTP) verification.
+Cloudflare Turnstile.
+Browser fingerprinting.
+Device verification.
+Secure cookies.
+Rate limiting.
+IP-based abuse detection.
+QR code validation at entry.
+
+Attempts to bypass these protections are prohibited and may result in account suspension or permanent exclusion.
+
+12. Attendance
+
+When a user confirms attendance through the Platform, this constitutes a commitment to attend.
+
+Failure to attend without a valid reason may affect:
+
+Future invitations.
+Membership evaluation.
+Leadership opportunities.
+Eligibility for certificates.
+
+Acceptable reasons for absence include:
+
+Official academic sessions or examinations.
+Medical reasons.
+Family emergencies.
+Other exceptional circumstances approved by the Club.
+13. Certificates
+
+Certificates may be issued only to participants who satisfy all applicable requirements, including:
+
+Successful registration.
+Attendance verification.
+Compliance with event rules.
+
+Certificates remain the property of the Club and may be revoked if obtained through fraud or misuse.
+
+14. Donations
+
+The Platform may offer users the opportunity to make voluntary donations.
+
+Donations:
+
+Are entirely optional.
+Support Club projects and operations.
+Do not provide special privileges or preferential treatment.
+Are generally non-refundable unless required by law.
+15. User Responsibilities
+
+Users agree to:
+
+Provide truthful information.
+Maintain account security.
+Respect Club staff, volunteers, speakers, partners, and other users.
+Comply with all Platform policies.
+Use the Platform responsibly.
+16. Prohibited Activities
+
+Users shall not:
+
+Create multiple accounts.
+Impersonate another person.
+Submit false information.
+Use automated scripts or bots.
+Attempt to bypass security mechanisms.
+Reverse engineer the Platform.
+Interfere with Platform functionality.
+Upload malicious software.
+Abuse event registrations.
+Sell or transfer free event tickets.
+Misuse digital badges.
+Attempt unauthorized access to systems or data.
+Use the Platform for illegal activities.
+Harass, threaten, or discriminate against other users.
+
+Violations may result in warnings, suspension, termination, or legal action where appropriate.
+
+17. Intellectual Property
+
+All Platform content, including but not limited to:
+
+Logos
+Trademarks
+Text
+Graphics
+Software
+Source code
+Databases
+Certificates
+Digital badges
+Event materials
+
+is owned by or licensed to the Club unless otherwise stated.
+
+Users may not reproduce, distribute, modify, or exploit such content without prior written authorization.
+
+18. Artificial Intelligence
+
+The Platform may include AI-powered features to improve user experience.
+
+Users must not use AI services provided by the Platform to:
+
+Generate harmful content.
+Violate academic integrity.
+Infringe intellectual property rights.
+Circumvent Platform rules.
+
+AI-generated outputs may contain errors and should not be relied upon without human review.
+
+19. Privacy
+
+The collection, processing, and protection of personal information are governed by the Platform's Privacy Policy.
+
+By using the Platform, users consent to such processing as described therein.
+
+20. Security
+
+The Platform implements industry-standard security measures, including:
+
+HTTPS encryption.
+Password hashing.
+Email verification.
+Cloudflare security services.
+Secure authentication.
+QR verification.
+Device verification.
+Rate limiting.
+Abuse detection.
+
+No online service can guarantee absolute security; users are responsible for protecting their own credentials.
+
+21. Third-Party Services
+
+The Platform may integrate third-party services such as payment processors, email providers, analytics providers, and security services.
+
+Their use is governed by their respective terms and privacy policies.
+
+22. Suspension and Termination
+
+The Club may suspend or terminate any account without prior notice where necessary to protect the Platform, its members, or its reputation.
+
+Grounds include, but are not limited to:
+
+Fraud.
+Abuse.
+Repeated policy violations.
+Security threats.
+Illegal conduct.
+23. Limitation of Liability
+
+To the maximum extent permitted by law, the Club shall not be liable for indirect, incidental, or consequential damages arising from the use of the Platform, temporary service interruptions, or third-party services.
+
+24. Disclaimer
+
+The Platform is provided on an "as available" basis. While the Club strives to maintain accurate and uninterrupted services, it does not guarantee that the Platform will always be error-free or continuously available.
+
+25. Modifications
+
+The Club reserves the right to update these Terms at any time.
+
+Material changes will be communicated through the Platform.
+
+Continued use of the Platform after changes take effect constitutes acceptance of the updated Terms.
+
+26. Governing Law
+
+These Terms shall be governed by the laws of the Kingdom of Morocco. Any disputes arising from these Terms shall be subject to the competent courts of Morocco, unless otherwise required by applicable law.
+
+27. Contact
+
+For questions regarding these Terms, please contact the Club through the official communication channels published on the Platform.
+
+Electronic Acceptance
+
+By creating an account, submitting a membership application, registering for an event, obtaining a digital ticket, making a donation, or otherwise using the Platform, you acknowledge that you have read, understood, and agreed to these Terms of Service. Your electronic acceptance through the Platform shall have the same effect as a handwritten signature, subject to applicable law.
+

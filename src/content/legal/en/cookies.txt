@@ -1,0 +1,286 @@
+COOKIE POLICY
+Leaders of Tomorrow Platform
+
+Version: 1.0
+
+Effective Date: 29 July 2026
+
+Last Updated: 29 July 2026
+
+TABLE OF CONTENTS
+Introduction
+What Are Cookies?
+Scope
+Types of Cookies We Use
+Strictly Necessary Cookies
+Authentication Cookies
+Security Cookies
+Preference Cookies
+Analytics Cookies
+Event Registration Cookies
+Membership Cookies
+AI Feature Cookies
+Third-Party Cookies
+Cloudflare Cookies
+Cookie Retention
+Managing Cookies
+Disabling Cookies
+Changes to this Policy
+Contact Information
+1. Introduction
+
+This Cookie Policy explains how the Leaders of Tomorrow Platform ("Platform", "Website", "Club", "we", "our", or "us") uses cookies and similar technologies to improve your experience, protect our services, secure event registrations, and manage memberships.
+
+By using our Platform, you consent to the use of cookies as described in this Policy, unless you choose to disable them through your browser settings where possible.
+
+2. What Are Cookies?
+
+Cookies are small text files stored on your device by your web browser when you visit a website.
+
+Cookies help websites:
+
+Remember your preferences
+Keep you logged in
+Improve security
+Detect fraudulent activity
+Remember language settings
+Improve performance
+Analyze website usage
+
+Cookies cannot execute programs or install software on your device.
+
+3. Scope
+
+This Policy applies to all pages and services provided through the Leaders of Tomorrow Platform, including:
+
+Homepage
+Membership portal
+Member dashboard
+Events
+Ticket system
+QR verification
+Certificates
+Digital badges
+AI-powered features
+Contact forms
+Administrative portal
+4. Types of Cookies We Use
+
+The Platform may use the following categories of cookies:
+
+Strictly Necessary Cookies
+Authentication Cookies
+Security Cookies
+Session Cookies
+Preference Cookies
+Performance Cookies
+Analytics Cookies
+Membership Cookies
+Event Registration Cookies
+AI Feature Cookies
+
+Some cookies are temporary (session cookies), while others remain on your device for a defined period (persistent cookies).
+
+5. Strictly Necessary Cookies
+
+These cookies are essential for the operation of the Platform and cannot be disabled through the Platform itself.
+
+They are used to:
+
+Load pages correctly
+Maintain secure sessions
+Process forms
+Prevent CSRF attacks
+Protect against unauthorized access
+Support Cloudflare security services
+Enable secure navigation
+
+Without these cookies, many Platform features will not function properly.
+
+6. Authentication Cookies
+
+Authentication cookies help verify your identity after you sign in.
+
+These cookies may be used to:
+
+Keep you signed in during your session
+Recognize your verified account
+Prevent repeated authentication requests
+Protect authenticated pages
+
+Authentication cookies are encrypted and are not intended to store your password in plain text.
+
+7. Security Cookies
+
+Security cookies help us protect the Platform against abuse and malicious activity.
+
+These cookies may support:
+
+Email OTP verification
+Device verification
+Session integrity
+Account protection
+Fraud detection
+Login monitoring
+Abuse prevention
+
+Security cookies may also be used alongside browser fingerprinting and rate limiting to detect suspicious activity.
+
+8. Preference Cookies
+
+Preference cookies remember choices you make to improve your experience, including:
+
+Preferred language (Arabic, French, or English)
+Theme preferences (where available)
+Accessibility settings
+User interface preferences
+
+These cookies help provide a more personalized experience.
+
+9. Analytics Cookies
+
+Analytics cookies help us understand how visitors interact with the Platform.
+
+We may use aggregated analytics information to measure:
+
+Number of visitors
+Most visited pages
+Event registrations
+Ticket usage
+Device types
+Browser compatibility
+Performance metrics
+
+Analytics information is used to improve the Platform and is not used to identify individual users where not necessary.
+
+10. Event Registration Cookies
+
+To ensure fair access to events, cookies may be used to:
+
+Maintain registration sessions
+Prevent duplicate submissions
+Support one-ticket-per-user enforcement
+Store temporary registration information
+Improve event registration reliability
+
+These cookies work together with other security measures such as email verification and browser fingerprint verification.
+
+11. Membership Cookies
+
+Membership cookies may be used to:
+
+Recognize approved members
+Display member-specific content
+Load digital badges
+Access member-only areas
+Maintain secure membership sessions
+
+These cookies expire according to the Platform's security settings or upon logout.
+
+12. AI Feature Cookies
+
+Where AI-powered services are available, cookies may be used to:
+
+Maintain AI conversation sessions
+Store temporary interaction preferences
+Improve response continuity
+Prevent abuse of AI services
+
+These cookies are not used to make automated decisions about membership or event eligibility without human oversight.
+
+13. Third-Party Cookies
+
+Some features of the Platform rely on trusted third-party services.
+
+These services may place cookies necessary to provide functionality such as:
+
+Secure payment processing (for memberships or optional donations)
+Email delivery
+Embedded maps
+Video content
+Analytics
+Cloud infrastructure
+
+The use of these cookies is governed by the privacy policies of the respective service providers.
+
+14. Cloudflare Cookies
+
+The Platform uses Cloudflare services to improve security, reliability, and performance.
+
+Cloudflare may place cookies that help:
+
+Identify trusted visitors
+Distinguish legitimate users from automated traffic
+Protect against Distributed Denial of Service (DDoS) attacks
+Support Web Application Firewall (WAF) protections
+Validate Cloudflare Turnstile challenges
+Maintain secure sessions
+
+These cookies are used solely for security and performance purposes.
+
+15. Cookie Retention
+
+Cookies may remain on your device for different periods depending on their purpose.
+
+Session Cookies are automatically deleted when you close your browser.
+Persistent Cookies remain for a limited period or until manually deleted.
+
+Retention periods are determined based on security requirements, operational needs, and applicable legal obligations.
+
+16. Managing Cookies
+
+Most web browsers allow you to:
+
+View stored cookies
+Delete cookies
+Block cookies
+Block third-party cookies
+Configure automatic deletion
+Receive notifications before cookies are stored
+
+Instructions vary depending on your browser.
+
+17. Disabling Cookies
+
+You may disable certain cookies through your browser settings.
+
+Please note that disabling essential cookies may result in:
+
+Inability to sign in
+Membership features not working correctly
+Event registration failures
+Ticket verification issues
+Loss of language preferences
+Reduced security protections
+
+The Platform is not responsible for functionality issues caused by disabling required cookies.
+
+18. Changes to This Cookie Policy
+
+We may update this Cookie Policy from time to time to reflect changes in technology, legal requirements, or Platform functionality.
+
+Material updates will be announced through the Platform where appropriate.
+
+Continued use of the Platform after changes take effect constitutes acceptance of the updated Cookie Policy.
+
+19. Contact Information
+
+If you have any questions regarding this Cookie Policy or the Platform's use of cookies, please contact the Leaders of Tomorrow Club using the official contact information published on the Platform.
+
+Cookie Summary
+
+The table below summarizes the categories of cookies used by the Platform:
+
+Category	Purpose	Required
+Strictly Necessary	Core website functionality and security	Yes
+Authentication	Secure sign-in and account sessions	Yes
+Security	Fraud prevention, OTP, device verification	Yes
+Preference	Language, interface, and accessibility settings	No
+Analytics	Improve website performance and user experience	No
+Event Registration	Support fair event registration and ticket issuance	Yes
+Membership	Manage member sessions and digital badges	Yes
+AI Features	Support AI-powered interactions where available	Optional
+User Acknowledgment
+
+By continuing to use the Leaders of Tomorrow Platform, you acknowledge that you have read, understood, and accepted this Cookie Policy. You also understand that certain cookies are essential for the secure operation of the Platform and cannot be disabled without affecting core functionality.
+

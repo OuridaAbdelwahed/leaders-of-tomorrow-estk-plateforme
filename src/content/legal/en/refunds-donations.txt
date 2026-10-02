@@ -1,0 +1,347 @@
+REFUND & DONATION POLICY
+Leaders of Tomorrow Club
+
+Version: 1.0
+
+Effective Date: 29 July 2026
+
+Last Updated: 29 July 2026
+
+TABLE OF CONTENTS
+Purpose
+Scope
+Definitions
+Membership Contributions
+Voluntary Donations
+Payment Methods
+Payment Security
+Refund Policy
+Non-Refundable Payments
+Exceptional Refunds
+Failed Payments
+Chargebacks
+Fraud Prevention
+Financial Transparency
+Sponsorship Funds
+Use of Donations
+Donor Recognition
+Tax & Receipts
+Currency
+Changes to this Policy
+Contact Information
+Acceptance
+1. Purpose
+
+The Leaders of Tomorrow Club is committed to managing all financial transactions with integrity, transparency, and accountability.
+
+This Refund & Donation Policy explains how membership contributions, optional donations, sponsorship-related funds, and refunds are handled through the Leaders of Tomorrow Platform.
+
+The purpose of this Policy is to ensure that all members, donors, sponsors, and users clearly understand:
+
+How payments are processed.
+When refunds may be granted.
+How donations are used.
+How financial abuse is prevented.
+The Club's commitment to responsible financial management.
+2. Scope
+
+This Policy applies to:
+
+Membership contributions
+Optional donations
+Online payments
+Future paid events (if introduced)
+Sponsorship-related financial transactions
+Refund requests
+Chargebacks
+Payment disputes
+
+This Policy does not apply to transactions conducted outside the official Leaders of Tomorrow Platform unless expressly stated by the Club.
+
+3. Definitions
+
+For the purposes of this Policy:
+
+Membership Contribution
+The annual amount paid to become or remain an active Club member.
+
+Donation
+A voluntary financial contribution made to support the Club's mission.
+
+Refund
+The return of money previously received by the Club.
+
+Chargeback
+A payment reversal initiated by a cardholder through their financial institution.
+
+Payment Provider
+A trusted third-party service used to process online payments.
+
+4. Membership Contributions
+
+Membership contributions support the operation and development of the Club.
+
+The minimum annual contribution is:
+
+50 MAD
+
+The Executive Board may establish optional contribution tiers above the minimum amount.
+
+Membership contributions help fund:
+
+Student activities
+Leadership programs
+Workshops
+Conferences
+Volunteer initiatives
+Community projects
+Digital platform maintenance
+Technical infrastructure
+Club administration
+Promotional materials
+Equipment
+Training resources
+
+Payment of the membership contribution does not guarantee election to leadership positions, committee appointments, scholarships, awards, or any other special benefit beyond the rights associated with membership.
+
+5. Voluntary Donations
+
+The Platform may invite users to make voluntary donations to support the Club.
+
+Donation opportunities may appear:
+
+During membership registration
+After successful membership approval
+During event registration
+After event participation
+On dedicated donation pages
+At other appropriate locations within the Platform
+
+Donations are entirely optional.
+
+Choosing not to donate will never:
+
+Affect membership approval.
+Affect event registration.
+Affect committee selection.
+Affect leadership opportunities.
+Affect access to Club services.
+
+The Club does not pressure users into making donations.
+
+6. Payment Methods
+
+The Platform may accept payments through secure payment providers, including:
+
+PayPal
+Visa
+Mastercard
+American Express (where supported)
+Other payment methods approved by the Club
+
+Payment methods may vary depending on the country, payment provider, and technical availability.
+
+7. Payment Security
+
+The Club prioritizes payment security.
+
+Payments are processed through trusted third-party providers that implement industry-standard security measures.
+
+The Platform does not intentionally store:
+
+Full credit card numbers
+CVV/CVC security codes
+Banking passwords
+Payment PINs
+
+Sensitive payment information is handled by the payment provider in accordance with applicable security standards.
+
+8. Refund Policy
+
+The Club understands that exceptional circumstances may arise.
+
+Refund requests will be considered fairly, consistently, and in good faith.
+
+Each request will be evaluated individually based on:
+
+The nature of the payment
+The reason for the request
+The timing of the request
+Applicable legal requirements
+Supporting documentation where appropriate
+
+Submitting a refund request does not guarantee approval.
+
+9. Non-Refundable Payments
+
+Unless required by applicable law or expressly approved by the Executive Board, the following payments are generally non-refundable:
+
+Membership contributions after approval of membership.
+Voluntary donations.
+Administrative processing fees (if applicable).
+Optional support contributions.
+Payments already used to provide the requested service.
+
+This policy helps ensure financial stability for the Club and allows long-term planning of activities and projects.
+
+10. Exceptional Refunds
+
+The Club may, at its sole discretion, approve refunds in exceptional situations, including but not limited to:
+
+Duplicate payment made by mistake.
+Technical payment error resulting in multiple charges.
+Unauthorized transaction confirmed by the payment provider.
+Payment collected due to a verified system malfunction.
+Other exceptional circumstances approved by the Executive Board.
+
+Approved refunds will normally be returned using the original payment method whenever reasonably possible.
+
+11. Failed Payments
+
+If a payment fails:
+
+Membership activation may be delayed.
+Event registration requiring payment (if any in the future) may remain incomplete.
+Donation processing may be cancelled.
+Users may be invited to retry the payment.
+
+The Club is not responsible for failures caused by:
+
+Bank restrictions
+Insufficient funds
+Expired payment methods
+Network interruptions
+Payment provider outages
+12. Chargebacks
+
+Users should contact the Club before initiating a chargeback whenever possible.
+
+If a chargeback is initiated:
+
+The Club may temporarily suspend related services while the dispute is investigated.
+Evidence may be submitted to the payment provider.
+Fraudulent chargebacks may result in account restrictions or termination.
+
+Nothing in this Policy limits the user's rights under applicable payment network rules or consumer protection laws.
+
+13. Fraud Prevention
+
+To protect members and donors, the Platform implements measures designed to prevent payment fraud and abuse.
+
+These measures may include:
+
+Email One-Time Password (OTP) verification
+Cloudflare Turnstile
+Browser fingerprint verification
+Device verification
+IP rate limiting
+Secure authentication
+Payment provider fraud screening
+Audit logging
+Duplicate payment detection
+
+Transactions identified as suspicious may be delayed, declined, or reviewed before completion.
+
+14. Financial Transparency
+
+The Leaders of Tomorrow Club is committed to responsible stewardship of all funds.
+
+Subject to operational needs and confidentiality obligations, the Club may publish periodic summaries of how funds are used.
+
+Financial resources may be allocated to support:
+
+Educational activities
+Student development
+Community service
+Digital infrastructure
+Marketing and communication
+Administrative operations
+Equipment and supplies
+Event organization
+
+Where required by law or institutional policy, additional financial reporting may be provided.
+
+15. Sponsorship Funds
+
+Funds received from sponsors or institutional partners are managed separately from voluntary donations where appropriate.
+
+Sponsorship agreements may include specific conditions regarding the use of funds, provided that such conditions are consistent with the Club's mission, values, and applicable law.
+
+The Club maintains editorial and operational independence and does not allow sponsorship to compromise its integrity or governance.
+
+16. Use of Donations
+
+Donations are used to advance the mission of the Club.
+
+Examples include:
+
+Organizing educational events
+Leadership development
+Student competitions
+Community outreach
+Volunteer initiatives
+Purchasing equipment
+Website hosting
+Cloud services
+Software licenses
+Printing materials
+Awards and certificates
+Operational expenses
+
+The Executive Board is responsible for ensuring that donations are used responsibly and in accordance with the Club's objectives.
+
+17. Donor Recognition
+
+The Club may recognize donors publicly, such as through acknowledgments on the Platform or at events.
+
+Public recognition will only occur with the donor's consent where required.
+
+Donors may request to remain anonymous.
+
+The amount of an individual's donation will not be disclosed publicly without the donor's explicit permission.
+
+18. Tax & Receipts
+
+Where applicable, the Platform may issue electronic payment confirmations or receipts.
+
+Users are responsible for determining whether their payments qualify for any tax treatment under applicable law.
+
+The Club does not provide tax, legal, or financial advice.
+
+19. Currency
+
+All membership contributions, donations, and other amounts are displayed in the currency specified by the Club for the relevant transaction.
+
+Where payment providers support multiple currencies, any conversion rates or additional fees are determined by the payment provider or the user's financial institution.
+
+20. Changes to This Policy
+
+The Club may revise this Refund & Donation Policy from time to time to reflect changes in:
+
+Payment methods
+Applicable laws
+Club operations
+Financial practices
+Technology
+
+Updated versions will be published on the Platform, and material changes will be communicated where reasonably practicable.
+
+Continued use of the Platform after the effective date of an updated Policy constitutes acceptance of the revised version.
+
+21. Contact Information
+
+Questions regarding payments, donations, sponsorship funds, or refund requests should be submitted through the official contact information published on the Leaders of Tomorrow Platform.
+
+The Club will review inquiries as promptly as reasonably possible.
+
+22. Acceptance
+
+By paying a membership contribution, making a voluntary donation, or completing any financial transaction through the Leaders of Tomorrow Platform, you acknowledge that:
+
+You have read and understood this Refund & Donation Policy.
+You agree to its terms.
+You understand that donations are voluntary.
+You understand that membership contributions and donations are generally non-refundable except as described in this Policy or required by applicable law.
+
+Electronic acceptance of this Policy through the Platform shall have the same legal effect as a handwritten signature, subject to applicable law.
+

@@ -1,0 +1,395 @@
+EVENT TICKET TERMS & CONDITIONS
+Leaders of Tomorrow Platform
+
+Version: 1.0
+
+Effective Date: 29 July 2026
+
+Last Updated: 29 July 2026
+
+TABLE OF CONTENTS
+Purpose
+Definitions
+Scope
+Event Registration
+Ticket Eligibility
+Free Ticket Policy
+One Ticket Per User Policy
+Identity Verification
+Ticket Issuance
+Digital Ticket Contents
+QR Code Verification
+Event Check-In
+Attendance Commitment
+Ticket Cancellation
+Event Changes
+Fraud Prevention
+Prohibited Activities
+Certificates
+Photography & Media
+Health & Safety
+Force Majeure
+Liability
+Privacy
+Amendments
+Governing Law
+Acceptance
+1. Purpose
+
+These Event Ticket Terms & Conditions ("Ticket Terms") govern the issuance, use, validation, cancellation, and management of all tickets distributed through the Leaders of Tomorrow Platform.
+
+The objective of these Terms is to ensure:
+
+Fair access to Club events
+Equal opportunity for participants
+Secure ticket distribution
+Prevention of fraud and abuse
+Efficient event management
+Safe and enjoyable participation
+
+By registering for an event, requesting a ticket, or attending any event organized or co-organized by the Club, you agree to these Ticket Terms.
+
+2. Definitions
+
+For the purposes of these Ticket Terms:
+
+Club means Leaders of Tomorrow.
+Platform means the official Leaders of Tomorrow website and digital services.
+Event means any conference, workshop, seminar, competition, training, meeting, sports activity, volunteer activity, networking session, or other program organized or supported by the Club.
+Participant means an individual registered for an event.
+Ticket means a digital authorization issued through the Platform for attendance at an event.
+QR Code means the unique digital identifier embedded in each ticket for verification at event entry.
+Organizer means the Club or an authorized partner responsible for managing the event.
+3. Scope
+
+These Terms apply to all event registrations made through the Platform, including but not limited to:
+
+Conferences
+Workshops
+Technical training
+Leadership sessions
+Networking events
+Volunteer campaigns
+Community service activities
+Sports tournaments
+Cultural activities
+Competitions
+Online events
+Hybrid events
+4. Event Registration
+
+Event registration must be completed exclusively through the official Platform.
+
+Participants must:
+
+Provide accurate information.
+Complete all required registration fields.
+Verify their email address when requested.
+Comply with all event-specific requirements.
+
+Submitting a registration request does not automatically guarantee participation.
+
+Participation remains subject to:
+
+Available capacity
+Eligibility requirements
+Successful verification
+Compliance with Club policies
+5. Ticket Eligibility
+
+The Club reserves the right to establish eligibility criteria for any event.
+
+Eligibility may depend on:
+
+Membership status
+Student status
+Academic institution
+Program of study
+Committee membership
+Event prerequisites
+Previous attendance
+Available seating
+
+The Club may prioritize registrations where event capacity is limited.
+
+6. Free Ticket Policy
+
+Unless explicitly stated otherwise, all tickets distributed through the Platform are free of charge.
+
+Free tickets:
+
+Have no monetary value.
+Cannot be sold.
+Cannot be auctioned.
+Cannot be exchanged for money or services.
+Cannot be transferred to another person without explicit authorization from the Club.
+
+The Club reserves the right to introduce paid events in the future. Such events will be governed by additional payment terms.
+
+7. One Ticket Per User Policy
+
+To ensure fairness and equal access:
+
+Each verified individual may obtain only one (1) ticket per event.
+Multiple registrations by the same individual are prohibited.
+Creating multiple accounts to obtain additional tickets is strictly forbidden.
+Sharing an account to obtain multiple tickets is prohibited.
+
+Duplicate registrations may be automatically rejected or cancelled.
+
+8. Identity Verification
+
+To maintain the integrity of the registration process, the Platform may require one or more of the following verification methods:
+
+Email One-Time Password (OTP)
+Verified user account
+Digital membership verification
+Device verification
+Browser fingerprint verification
+Secure session validation
+Cloudflare Turnstile challenge
+Rate-limiting checks
+Additional verification where appropriate
+
+Failure to complete required verification may prevent ticket issuance.
+
+9. Ticket Issuance
+
+Once registration is approved, the Platform may generate a digital ticket containing:
+
+Event title
+Participant name
+Unique Ticket ID
+Event date
+Event time
+Event location
+QR Code
+Ticket status
+Club branding
+Organizer information
+
+The Club reserves the right to delay or withhold ticket issuance where verification is incomplete or suspicious activity is detected.
+
+10. Digital Ticket Contents
+
+Each digital ticket is unique and may include:
+
+Participant's full name
+Event information
+Registration number
+QR Code
+Membership status (where applicable)
+Digital security signature
+Ticket validity status
+
+Tickets remain the property of the Club.
+
+11. QR Code Verification
+
+Every ticket contains a unique QR Code.
+
+At event entry, organizers may scan the QR Code to verify:
+
+Ticket authenticity
+Ticket validity
+Event association
+Participant identity
+Check-in status
+
+A QR Code may generally be scanned only once unless otherwise authorized.
+
+Any attempt to duplicate, copy, or alter a QR Code is prohibited.
+
+12. Event Check-In
+
+Participants should arrive before the scheduled start time.
+
+Organizers may require:
+
+Presentation of the digital ticket.
+Verification of identity using an official student card or another accepted identification document.
+Confirmation of membership status where applicable.
+
+Late arrival may result in refusal of entry if doing so would disrupt the event or if capacity has been reached.
+
+13. Attendance Commitment
+
+By confirming participation and obtaining a ticket, participants agree to attend the event.
+
+If a participant is unable to attend, they should cancel their registration through the Platform as early as possible.
+
+Repeated unexplained absences may affect:
+
+Future event eligibility
+Membership evaluation
+Committee participation
+Leadership opportunities
+Certificate eligibility
+
+Valid reasons for absence may include:
+
+Academic classes
+Examinations
+Medical emergencies
+Family emergencies
+Other exceptional circumstances accepted by the Club
+14. Ticket Cancellation
+
+The Club reserves the right to cancel any ticket where:
+
+Registration information is false or misleading.
+Fraudulent activity is detected.
+Duplicate registrations occur.
+Verification requirements are not satisfied.
+The participant violates Club policies.
+The event is cancelled or modified.
+
+Participants may also cancel their registration voluntarily through the Platform before the event, subject to any published deadlines.
+
+15. Event Changes
+
+The Club may modify an event when necessary, including:
+
+Date
+Time
+Venue
+Speaker
+Schedule
+Capacity
+Delivery format (in-person, online, or hybrid)
+
+Where practical, registered participants will be notified of significant changes.
+
+16. Fraud Prevention
+
+To protect participants and ensure fair access, the Platform employs security measures including:
+
+Email OTP verification
+Cloudflare Turnstile
+Browser fingerprint verification
+Device verification
+Secure authentication
+QR Code validation
+Session monitoring
+Rate limiting
+Abuse detection
+Audit logging
+
+The Club reserves the right to investigate suspicious registrations and deny participation where fraud or abuse is reasonably suspected.
+
+17. Prohibited Activities
+
+Participants must not:
+
+Sell free tickets.
+Transfer tickets without authorization.
+Duplicate QR Codes.
+Share tickets publicly.
+Register multiple accounts.
+Circumvent security mechanisms.
+Attempt unauthorized access to Platform systems.
+Disrupt events.
+Harass attendees, speakers, volunteers, or organizers.
+Use automated tools or bots to obtain tickets.
+Falsify identity or registration information.
+
+Violations may result in:
+
+Ticket cancellation
+Suspension of membership
+Permanent exclusion from future events
+Removal from the event venue
+Additional action as permitted by applicable law
+18. Certificates
+
+Attendance certificates may be issued only to participants who:
+
+Successfully register.
+Attend the event.
+Complete any mandatory participation requirements.
+Comply with event rules and Club policies.
+
+Certificates may be withheld or revoked if attendance records are inaccurate or obtained through fraudulent means.
+
+19. Photography & Media
+
+During events, photographs, audio recordings, and video recordings may be captured for documentation and promotional purposes.
+
+These materials may be used on:
+
+The Club website
+Social media platforms
+Annual reports
+Promotional materials
+Newsletters
+
+Participants who have legitimate concerns regarding the publication of identifiable media may contact the Club for review, subject to operational and legal considerations.
+
+20. Health & Safety
+
+Participants are expected to:
+
+Follow instructions from organizers and venue staff.
+Respect venue rules.
+Behave responsibly.
+Report emergencies or safety concerns immediately.
+
+The Club reserves the right to remove any participant whose behavior threatens the safety, security, or well-being of others.
+
+21. Force Majeure
+
+The Club shall not be liable for cancellations, delays, or modifications caused by circumstances beyond its reasonable control, including but not limited to:
+
+Natural disasters
+Public health emergencies
+Government restrictions
+Severe weather
+Technical failures
+Venue closures
+Security incidents
+22. Limitation of Liability
+
+To the fullest extent permitted by applicable law, the Club shall not be liable for:
+
+Personal belongings lost or damaged during an event.
+Travel or accommodation expenses incurred by participants.
+Indirect or consequential losses resulting from event changes or cancellations.
+Technical issues affecting access to the Platform beyond the Club's reasonable control.
+
+Nothing in these Terms excludes liability where such exclusion is prohibited by law.
+
+23. Privacy
+
+Personal information collected during event registration is processed in accordance with the Leaders of Tomorrow Privacy Policy.
+
+This includes information necessary for:
+
+Registration management
+Ticket issuance
+Attendance verification
+Certificate generation
+Security and fraud prevention
+24. Amendments
+
+The Club reserves the right to amend these Event Ticket Terms when necessary.
+
+Updated versions will be published on the Platform, and material changes will be communicated where reasonably practicable.
+
+Continued use of the Platform after changes take effect constitutes acceptance of the revised Terms.
+
+25. Governing Law
+
+These Event Ticket Terms shall be governed by the laws of the Kingdom of Morocco.
+
+Any disputes arising from participation in Club events shall be subject to the competent courts of Morocco, unless otherwise required by applicable law.
+
+26. Acceptance
+
+By registering for an event, requesting a ticket, receiving a digital ticket, or attending a Club event, you acknowledge that:
+
+You have read and understood these Event Ticket Terms.
+You agree to comply with all event rules and Club policies.
+You understand that violations may result in ticket cancellation, removal from the event, suspension of membership, or exclusion from future events.
+
+Electronic acceptance of these Terms through the Leaders of Tomorrow Platform shall have the same legal effect as a handwritten signature, subject to applicable law.
+

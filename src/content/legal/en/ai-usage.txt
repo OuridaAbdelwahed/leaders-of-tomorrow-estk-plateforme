@@ -1,0 +1,376 @@
+ARTIFICIAL INTELLIGENCE (AI) USAGE POLICY
+Leaders of Tomorrow Club
+
+Version: 1.0
+
+Effective Date: 29 July 2026
+
+Last Updated: 29 July 2026
+
+TABLE OF CONTENTS
+Purpose
+Scope
+Definitions
+Guiding Principles
+Acceptable Use of AI
+Prohibited Use of AI
+Academic Integrity
+Human Oversight
+Transparency
+AI-Generated Content
+Data Protection
+Confidential Information
+AI Features on the Platform
+Automated Decisions
+Bias and Fairness
+Security
+Intellectual Property
+AI in Club Activities
+Reporting Misuse
+Enforcement
+Policy Updates
+Contact Information
+Acceptance
+1. Purpose
+
+The Leaders of Tomorrow Club embraces Artificial Intelligence (AI) as a tool to enhance education, leadership, innovation, productivity, and creativity.
+
+This AI Usage Policy establishes responsible, ethical, and transparent rules governing the use of AI within the Leaders of Tomorrow Platform and Club activities.
+
+The objectives of this Policy are to:
+
+Promote responsible AI use.
+Encourage innovation.
+Protect academic integrity.
+Safeguard personal information.
+Prevent misuse.
+Ensure fairness.
+Maintain human accountability.
+
+AI is intended to assist people—not replace human judgment, responsibility, or learning.
+
+2. Scope
+
+This Policy applies to:
+
+Members
+Executive Board
+Committee members
+Volunteers
+Mentors
+Trainers
+Speakers
+Platform users
+Developers
+Administrators
+
+It applies to AI used through:
+
+The Leaders of Tomorrow Platform
+Workshops
+Hackathons
+Educational activities
+Internal tools
+AI assistants
+Chatbots
+Automation systems
+Content generation tools
+3. Definitions
+Artificial Intelligence (AI)
+
+Software capable of generating content, assisting decision-making, analyzing information, recognizing patterns, or automating tasks.
+
+AI-Generated Content
+
+Any text, image, audio, video, code, presentation, design, or other material created wholly or partially using AI.
+
+Human Oversight
+
+Review, supervision, or approval by a human before relying on AI-generated outputs where appropriate.
+
+4. Guiding Principles
+
+AI should always be used in accordance with the following principles:
+
+Responsibility
+Transparency
+Fairness
+Privacy
+Security
+Accountability
+Human-centered design
+Inclusiveness
+Educational value
+Legal compliance
+
+Members remain responsible for how they use AI.
+
+5. Acceptable Use of AI
+
+Members are encouraged to use AI responsibly for purposes such as:
+
+Learning
+Brainstorming
+Programming assistance
+Writing improvement
+Translation
+Language learning
+Data analysis
+Research assistance
+Presentation preparation
+Project planning
+Career development
+Resume improvement
+Leadership training
+Productivity
+Automation of repetitive tasks
+Accessibility support
+
+AI should complement—not replace—critical thinking and personal effort.
+
+6. Prohibited Use of AI
+
+AI must not be used to:
+
+Cheat in academic work.
+Submit AI-generated assignments as entirely original work where prohibited.
+Plagiarize.
+Create fake certificates.
+Forge official Club documents.
+Impersonate another person.
+Generate misleading information intentionally.
+Create malicious software.
+Circumvent Platform security.
+Generate harmful, illegal, or abusive content.
+Harass, threaten, or intimidate others.
+Manipulate Club elections or voting.
+Create fake attendance records.
+Bypass identity verification systems.
+Attempt to defeat fraud-prevention measures.
+Generate deepfakes intended to deceive or harm.
+
+Misuse of AI may result in disciplinary action.
+
+7. Academic Integrity
+
+The Club supports responsible learning.
+
+Members should:
+
+Use AI as a learning assistant.
+Verify information independently.
+Cite AI use where required by an instructor or competition rules.
+Complete their own learning.
+
+Members should not use AI to:
+
+Replace independent learning.
+Misrepresent their abilities.
+Gain unfair academic advantages.
+
+AI should enhance education—not undermine it.
+
+8. Human Oversight
+
+Important decisions should not rely solely on AI-generated outputs.
+
+Human review is expected before relying on AI for matters involving:
+
+Official Club communications.
+Partnership agreements.
+Financial decisions.
+Membership disciplinary actions.
+Legal documents.
+Safety-related matters.
+Public announcements.
+
+Users are responsible for reviewing AI-generated content before publishing or relying on it.
+
+9. Transparency
+
+Where appropriate, members should disclose when content has been substantially generated or significantly assisted by AI, particularly in contexts where transparency is expected, such as competitions, publications, or collaborative projects.
+
+The Club may identify AI-powered features within the Platform so users understand when they are interacting with automated systems.
+
+10. AI-Generated Content
+
+Users remain solely responsible for content generated with AI.
+
+Before sharing AI-generated material, users should:
+
+Review accuracy.
+Correct errors.
+Remove inappropriate content.
+Verify sources where applicable.
+Respect copyright.
+Ensure compliance with Club policies.
+
+AI outputs may contain inaccuracies or outdated information.
+
+11. Data Protection
+
+Users should avoid submitting sensitive or confidential information to AI systems unless:
+
+They are authorized to do so.
+The information is adequately protected.
+The processing complies with the Club's Privacy Policy and applicable law.
+
+Examples of sensitive information include:
+
+Passwords
+Private identification numbers
+Financial information
+Medical information
+Confidential Club documents
+Personal data of other members
+12. Confidential Information
+
+Confidential Club information must not be entered into external AI services unless expressly authorized and appropriate safeguards are in place.
+
+This includes:
+
+Internal meeting minutes.
+Partnership negotiations.
+Financial records.
+Security procedures.
+Member databases.
+Administrative credentials.
+Unpublished strategic plans.
+13. AI Features on the Platform
+
+The Leaders of Tomorrow Platform may include AI-powered features to improve the user experience.
+
+Examples include:
+
+Writing assistance.
+Translation support.
+Smart search.
+Frequently asked question assistants.
+Event recommendations.
+Educational guidance.
+Productivity tools.
+
+The availability, functionality, and limitations of AI features may change over time.
+
+14. Automated Decisions
+
+Where AI contributes to recommendations or automated processes, meaningful human oversight will be maintained for significant decisions affecting members, where reasonably practicable.
+
+Examples include:
+
+Membership review support.
+Event recommendations.
+Content categorization.
+Spam detection.
+Fraud detection alerts.
+
+Final decisions affecting members should be made or confirmed by authorized human representatives where appropriate.
+
+15. Bias and Fairness
+
+AI systems may produce biased or inaccurate results.
+
+Users should:
+
+Question unexpected outputs.
+Verify important information.
+Avoid discriminatory use of AI.
+Report suspected harmful bias.
+
+The Club will seek to improve AI systems where practical and appropriate.
+
+16. Security
+
+AI must never be used to:
+
+Circumvent authentication.
+Attack systems.
+Access unauthorized data.
+Generate phishing campaigns.
+Steal credentials.
+Exploit Platform vulnerabilities.
+Interfere with fraud prevention mechanisms.
+
+Security violations may result in immediate suspension and referral to the appropriate authorities where warranted.
+
+17. Intellectual Property
+
+Users must respect intellectual property rights when using AI.
+
+Members should not:
+
+Use AI to reproduce copyrighted works unlawfully.
+Remove copyright notices.
+Misappropriate trademarks.
+Claim ownership of third-party content.
+
+Users remain responsible for ensuring that AI-assisted work complies with copyright and licensing obligations.
+
+18. AI in Club Activities
+
+The Club may use AI to support:
+
+Educational workshops.
+Coding sessions.
+Leadership training.
+Innovation competitions.
+Administrative efficiency.
+Accessibility services.
+Event organization.
+Data analysis.
+
+Where AI is used in judging competitions or evaluations, the Club should ensure that appropriate human oversight is maintained.
+
+19. Reporting Misuse
+
+Suspected misuse of AI may be reported through the official reporting channels.
+
+Reports should include:
+
+Description of the incident.
+Date and time.
+Relevant evidence where available.
+Individuals involved, if known.
+
+Reports made in good faith will be reviewed appropriately.
+
+Knowingly false reports may themselves violate Club policies.
+
+20. Enforcement
+
+Violations of this Policy may result in one or more of the following measures, depending on the severity and circumstances:
+
+Educational guidance.
+Verbal warning.
+Written warning.
+Mandatory retraining.
+Removal of AI-generated content.
+Restriction of access to certain AI features.
+Suspension from specific activities.
+Suspension or termination of membership.
+Referral to educational institutions or competent authorities where appropriate.
+
+The Club will seek to apply enforcement measures fairly and proportionately.
+
+21. Policy Updates
+
+The Club may revise this AI Usage Policy to reflect changes in technology, law, best practices, or Club operations.
+
+The current version will always be published on the Leaders of Tomorrow Platform.
+
+Continued use of AI features after updates take effect constitutes acceptance of the revised Policy.
+
+22. Contact Information
+
+Questions regarding AI use, ethical concerns, or this Policy should be directed to the official contact channels published on the Leaders of Tomorrow Platform.
+
+23. Acceptance
+
+By using AI-powered features provided by the Leaders of Tomorrow Platform or by participating in Club activities involving AI, you acknowledge that:
+
+You have read and understood this AI Usage Policy.
+You agree to use AI responsibly, ethically, and in accordance with applicable law and Club policies.
+You understand that misuse of AI may result in disciplinary action or other appropriate measures.
+
+Electronic acceptance of this Policy through the Platform shall have the same legal effect as a handwritten signature, subject to applicable law.
+

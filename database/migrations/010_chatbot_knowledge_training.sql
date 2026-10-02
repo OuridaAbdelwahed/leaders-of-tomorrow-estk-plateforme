@@ -1,0 +1,61 @@
+CREATE TABLE IF NOT EXISTS chatbot_knowledge_sources (
+  id VARCHAR(64) PRIMARY KEY,
+  organization_id VARCHAR(64) NOT NULL DEFAULT 'leaders_of_tomorrow',
+  source_type ENUM('PLATFORM_EVENT','PLATFORM_POST','PLATFORM_GALLERY','PLATFORM_SPONSOR','PLATFORM_OFFER','PDF','WORD','IMAGE','WHATSAPP','INSTAGRAM','TIKTOK','CONVERSATION','RAW_TEXT') NOT NULL,
+  source_key VARCHAR(190) NULL,
+  title VARCHAR(255) NOT NULL,
+  language ENUM('ar','fr','en','darija') NOT NULL DEFAULT 'en',
+  origin_label VARCHAR(255) NULL,
+  original_filename VARCHAR(255) NULL,
+  mime_type VARCHAR(120) NULL,
+  byte_size BIGINT UNSIGNED NULL,
+  checksum CHAR(64) NULL,
+  extraction_method VARCHAR(80) NOT NULL DEFAULT 'TEXT',
+  status ENUM('PROCESSING','READY','FAILED','ARCHIVED') NOT NULL DEFAULT 'PROCESSING',
+  active TINYINT(1) NOT NULL DEFAULT 0,
+  auto_synced TINYINT(1) NOT NULL DEFAULT 0,
+  extracted_text MEDIUMTEXT NULL,
+  extraction_error VARCHAR(1000) NULL,
+  metadata JSON NULL,
+  created_by VARCHAR(190) NULL,
+  created_at DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),
+  trained_at DATETIME(3) NULL,
+  updated_at DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3) ON UPDATE CURRENT_TIMESTAMP(3),
+  UNIQUE KEY chatbot_knowledge_source_key_unique (organization_id, source_type, source_key),
+  KEY chatbot_knowledge_status_idx (organization_id, active, status, source_type, updated_at),
+  KEY chatbot_knowledge_checksum_idx (organization_id, checksum),
+  KEY chatbot_knowledge_training_idx (auto_synced, trained_at)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+CREATE TABLE IF NOT EXISTS chatbot_knowledge_chunks (
+  id VARCHAR(64) PRIMARY KEY,
+  source_id VARCHAR(64) NOT NULL,
+  chunk_index INT UNSIGNED NOT NULL,
+  language ENUM('ar','fr','en','darija') NOT NULL,
+  content TEXT NOT NULL,
+  normalized_content TEXT NOT NULL,
+  token_count INT UNSIGNED NOT NULL DEFAULT 0,
+  created_at DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),
+  UNIQUE KEY chatbot_knowledge_chunk_unique (source_id, language, chunk_index),
+  KEY chatbot_knowledge_chunk_language_idx (language, source_id),
+  KEY chatbot_knowledge_chunk_lookup_idx (language, normalized_content(190)),
+  FULLTEXT KEY chatbot_knowledge_chunk_fulltext (content),
+  CONSTRAINT chatbot_knowledge_chunk_source_fk FOREIGN KEY (source_id) REFERENCES chatbot_knowledge_sources(id) ON DELETE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+CREATE TABLE IF NOT EXISTS chatbot_training_runs (
+  id VARCHAR(64) PRIMARY KEY,
+  run_type ENUM('PLATFORM_SYNC','UPLOAD','REPROCESS','ACTIVATION') NOT NULL,
+  source_id VARCHAR(64) NULL,
+  status ENUM('RUNNING','COMPLETED','PARTIAL','FAILED') NOT NULL DEFAULT 'RUNNING',
+  processed_items INT UNSIGNED NOT NULL DEFAULT 0,
+  trained_chunks INT UNSIGNED NOT NULL DEFAULT 0,
+  failed_items INT UNSIGNED NOT NULL DEFAULT 0,
+  details JSON NULL,
+  started_by VARCHAR(190) NULL,
+  started_at DATETIME(3) NOT NULL DEFAULT CURRENT_TIMESTAMP(3),
+  completed_at DATETIME(3) NULL,
+  KEY chatbot_training_runs_status_idx (status, started_at),
+  KEY chatbot_training_runs_source_idx (source_id, started_at),
+  CONSTRAINT chatbot_training_runs_source_fk FOREIGN KEY (source_id) REFERENCES chatbot_knowledge_sources(id) ON DELETE SET NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;

@@ -1,0 +1,489 @@
+PRIVACY POLICY
+Leaders of Tomorrow Platform
+
+Version: 1.0
+
+Effective Date: 29 July 2026
+
+Last Updated: 29 July 2026
+
+TABLE OF CONTENTS
+Introduction
+Scope
+Definitions
+Information We Collect
+How We Collect Information
+Legal Basis for Processing
+How We Use Your Information
+Membership Information
+Event Registration Information
+Digital Membership Badge
+Event Tickets
+Authentication & Security
+Browser Fingerprinting
+Cookies
+Cloudflare Services
+Artificial Intelligence Features
+Communications
+Certificates
+Media and Photography
+Donations
+Third-Party Services
+Data Sharing
+Data Retention
+Account Deletion
+Your Rights
+Children's Privacy
+International Transfers
+Security Measures
+Data Breach Procedures
+Policy Updates
+Contact Information
+1. Introduction
+
+The Leaders of Tomorrow Platform ("Platform", "Website", "Club", "We", "Us", or "Our") respects your privacy and is committed to protecting your personal information.
+
+This Privacy Policy explains:
+
+what information we collect,
+why we collect it,
+how we use it,
+how we protect it,
+and your rights regarding your personal information.
+
+By using our Platform, you agree to this Privacy Policy.
+
+2. Scope
+
+This Policy applies to every service provided through our Platform, including:
+
+Membership registration
+Membership renewal
+Digital badges
+Event registration
+Event tickets
+QR verification
+Certificates
+Donations
+Contact forms
+Volunteer registration
+Committee management
+Website analytics
+AI-powered services
+Mobile access
+Administrative dashboards
+3. Definitions
+
+For this Policy:
+
+Personal Data
+means any information capable of identifying an individual.
+
+Examples:
+
+Name
+Email
+Student ID
+Profile picture
+CV
+
+Processing
+
+means collecting, storing, organizing, modifying, analyzing, sharing or deleting information.
+
+Member
+
+An approved Club member.
+
+Visitor
+
+A person browsing the Platform without membership.
+
+Authentication
+
+The process of verifying identity before granting access.
+
+4. Information We Collect
+
+Depending on how you use the Platform, we may collect the following information.
+
+Identity Information
+Full name
+First name
+Last name
+Student ID
+Academic program
+Department
+Year of study
+Institution
+Contact Information
+Email address
+Phone number (optional)
+Membership Information
+Membership status
+Membership ID
+Membership contribution
+Digital badge
+Committee
+Leadership position
+Membership history
+Uploaded Files
+
+You may voluntarily upload:
+
+Curriculum Vitae
+Profile photo
+Supporting documents
+Event Information
+
+For each event we may record:
+
+Registration date
+Ticket ID
+Attendance confirmation
+QR scans
+Check-in time
+Certificate eligibility
+Participation history
+Technical Information
+
+Our Platform automatically collects:
+
+Browser type
+Operating system
+Device type
+Screen size
+Language
+Time zone
+IP address (or hashed IP where appropriate)
+Session ID
+Browser fingerprint
+Device identifier
+Network information
+Error logs
+5. How Information Is Collected
+
+Information is collected when you:
+
+Visit our Platform.
+Create an account.
+Apply for membership.
+Upload documents.
+Register for events.
+Receive certificates.
+Contact the Club.
+Make donations.
+Browse pages.
+Participate in surveys.
+Use AI-powered services.
+
+Some information is collected automatically.
+
+6. Legal Basis for Processing
+
+We process personal information for the following reasons:
+
+Membership management
+Contractual obligations
+Legitimate interests
+Security
+Fraud prevention
+Legal compliance
+User consent
+7. Why We Use Your Information
+
+Your information helps us:
+
+Process memberships
+Review applications
+Issue digital badges
+Generate QR Codes
+Create certificates
+Organize events
+Improve services
+Prevent abuse
+Detect fraud
+Maintain security
+Communicate with members
+Produce anonymous statistics
+
+We never sell your personal information.
+
+8. Membership Information
+
+Membership records are used exclusively to:
+
+Verify eligibility.
+Generate digital badges.
+Track participation.
+Manage committees.
+Maintain leadership records.
+9. Event Information
+
+When registering for events, we may process:
+
+Event selections
+Attendance confirmations
+Check-in history
+Ticket validation
+Certificate status
+
+This information allows us to:
+
+Manage attendance
+Prevent duplicate tickets
+Improve future events
+10. Digital Membership Badge
+
+Approved members receive a digital badge containing:
+
+Full name
+Membership ID
+QR Code
+Status
+Photo
+
+The badge is stored securely and displayed only to the authenticated member and authorized administrators.
+
+11. Event Tickets
+
+Our Platform provides free digital tickets.
+
+To ensure fairness:
+
+One ticket per verified account.
+One ticket per verified user.
+One ticket per verified device where applicable.
+
+Duplicate registrations may be automatically rejected.
+
+12. Authentication & Security
+
+To protect members and events we use:
+
+Email OTP verification
+Secure sessions
+Cloudflare protection
+Cloudflare Turnstile
+Browser fingerprint verification
+Device verification
+QR verification
+Login monitoring
+Abuse detection
+Rate limiting
+
+These measures reduce spam, bots, fake accounts and duplicate registrations.
+
+13. Browser Fingerprinting
+
+To prevent ticket abuse and account fraud, the Platform may generate a privacy-conscious browser fingerprint based on technical characteristics such as:
+
+Browser version
+Operating system
+Installed capabilities
+Screen resolution
+Time zone
+Language settings
+
+This fingerprint is used solely for security and anti-fraud purposes and is not intended for advertising or cross-site tracking.
+
+14. Cookies
+
+We use cookies to:
+
+Keep users signed in.
+Remember preferences.
+Maintain secure sessions.
+Store language settings.
+Improve performance.
+Detect abuse.
+
+Users may disable cookies through browser settings; however, some features may not function correctly.
+
+15. Cloudflare Services
+
+The Platform uses Cloudflare services to improve security and performance.
+
+These services may include:
+
+DDoS protection
+Web Application Firewall (WAF)
+Cloudflare Turnstile
+Bot management
+Content caching
+TLS encryption
+
+Cloudflare may process technical request information in accordance with its own privacy practices.
+
+16. Artificial Intelligence Features
+
+Where available, AI-powered features may assist users with:
+
+Information retrieval
+Writing assistance
+Recommendations
+Automation
+
+AI outputs may contain inaccuracies and should not be considered professional or legal advice.
+
+Users remain responsible for verifying AI-generated content.
+
+17. Communications
+
+We may send emails regarding:
+
+Membership approval
+Event invitations
+Event reminders
+Certificates
+Platform updates
+Security alerts
+Policy changes
+
+Users may opt out of non-essential communications where applicable.
+
+18. Certificates
+
+Certificates are generated using verified participation records.
+
+Fraudulent attempts to obtain certificates may result in revocation and disciplinary action.
+
+19. Media and Photography
+
+Club events may include photography or video recording.
+
+Media may be used for:
+
+Website galleries
+Social media
+Annual reports
+Promotional materials
+
+If you believe an identifiable image of you should be removed for legitimate reasons, you may contact the Club for review.
+
+20. Donations
+
+Donations are voluntary.
+
+Donation information is processed only for:
+
+Payment confirmation
+Accounting
+Reporting
+Transparency
+
+Donations do not grant special membership rights or event privileges.
+
+21. Third-Party Services
+
+We may rely on trusted third-party providers for services such as:
+
+Payment processing
+Email delivery
+Cloud infrastructure
+Security services
+Analytics
+
+These providers process information only as necessary to provide their services and under appropriate safeguards.
+
+22. Data Sharing
+
+We do not sell personal information.
+
+We may share information only when:
+
+You provide consent.
+It is necessary to provide a requested service.
+Required by applicable law.
+Necessary to protect the Platform or its users.
+
+Sponsors and partners do not receive personal member information unless you explicitly authorize such sharing or it is necessary for a specific jointly organized activity.
+
+23. Data Retention
+
+Information is retained only for as long as necessary to fulfill the purposes described in this Policy or to comply with legal or administrative obligations.
+
+Retention periods may vary depending on the type of data.
+
+24. Account Deletion
+
+Users may request deletion of their account.
+
+Some information may be retained where necessary for:
+
+Legal compliance
+Financial records
+Fraud prevention
+Historical participation records
+Certificate verification
+
+Deleted accounts cannot generally be recovered.
+
+25. Your Rights
+
+Subject to applicable law, you may have the right to:
+
+Access your information.
+Correct inaccurate information.
+Update your profile.
+Request deletion.
+Request data portability where applicable.
+Withdraw consent for optional processing.
+Object to certain types of processing.
+
+Requests may require identity verification.
+
+26. Children's Privacy
+
+The Platform is primarily intended for university students and educational communities.
+
+If we become aware that personal information has been collected in violation of applicable laws regarding minors, we will take appropriate steps to address the issue.
+
+27. International Transfers
+
+Where technical service providers operate outside your country, personal information may be processed in other jurisdictions subject to appropriate safeguards.
+
+28. Security Measures
+
+We implement multiple layers of security, including:
+
+HTTPS encryption
+Password hashing
+Secure authentication
+Email verification
+Cloudflare WAF
+Cloudflare Turnstile
+Device verification
+Browser fingerprint verification
+Secure cookies
+Rate limiting
+Database access controls
+Audit logging
+Regular software updates
+
+Despite these measures, no online system can guarantee absolute security.
+
+29. Data Breach Procedures
+
+If a significant data security incident occurs, the Club will:
+
+Investigate the incident.
+Contain the impact.
+Notify affected users where appropriate and required by law.
+Implement corrective measures to reduce future risks.
+30. Changes to This Policy
+
+This Privacy Policy may be updated periodically.
+
+Material changes will be communicated through the Platform before they take effect where reasonably possible.
+
+Continued use of the Platform after updates constitutes acceptance of the revised Policy.
+
+31. Contact Information
+
+Questions, concerns, or requests regarding this Privacy Policy may be submitted through the official contact information published on the Leaders of Tomorrow Platform.
+
+User Acknowledgment
+
+By creating an account, applying for membership, registering for events, obtaining digital tickets, uploading documents, making donations, or using any feature of the Leaders of Tomorrow Platform, you acknowledge that you have read, understood, and accepted this Privacy Policy.
+

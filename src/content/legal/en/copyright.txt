@@ -1,0 +1,425 @@
+COPYRIGHT & INTELLECTUAL PROPERTY POLICY
+Leaders of Tomorrow Club
+
+Version: 1.0
+
+Effective Date: 29 July 2026
+
+Last Updated: 29 July 2026
+
+TABLE OF CONTENTS
+Purpose
+Scope
+Definitions
+Ownership of Intellectual Property
+Club Name, Logo & Brand Identity
+Website & Platform Content
+Source Code & Software
+Educational Materials
+Photographs & Videos
+Member-Generated Content
+AI-Generated Content
+Event Materials
+Digital Membership Badges
+Certificates
+Sponsorship & Partner Content
+Permitted Use
+Prohibited Use
+Copyright Infringement Reports
+Repeat Infringers
+Open Source Software
+Third-Party Intellectual Property
+Moral Rights
+License Granted by Users
+Policy Updates
+Contact Information
+Acceptance
+1. Purpose
+
+The Leaders of Tomorrow Club creates and maintains a wide variety of intellectual property, including educational resources, software, digital content, branding, multimedia, and event materials.
+
+This Copyright & Intellectual Property Policy explains:
+
+What intellectual property belongs to the Club.
+What belongs to members.
+How content may be used.
+How permission may be obtained.
+How infringement is handled.
+How user-generated content is managed.
+
+The purpose of this Policy is to protect creativity while encouraging responsible sharing and collaboration.
+
+2. Scope
+
+This Policy applies to all intellectual property created, published, or distributed through the Leaders of Tomorrow Platform, including:
+
+Website
+Mobile interface
+Source code
+Databases
+UI/UX designs
+Logos
+Icons
+Graphics
+Documents
+Policies
+Articles
+Blog posts
+Workshops
+Courses
+Slides
+Certificates
+Digital badges
+Event materials
+Videos
+Audio recordings
+Photographs
+AI-generated content
+Marketing materials
+Social media publications
+3. Definitions
+Intellectual Property (IP)
+
+Includes creations of the mind protected by law, such as:
+
+Copyright
+Trademarks
+Logos
+Designs
+Software
+Databases
+Educational resources
+Images
+Videos
+Music
+Publications
+Copyright
+
+The legal protection granted to original creative works.
+
+Trademark
+
+A distinctive sign identifying the Club or its services.
+
+User Content
+
+Content uploaded or created by members, including:
+
+CVs
+Profile photographs
+Articles
+Comments
+Projects
+Event submissions
+Presentations
+4. Ownership of Intellectual Property
+
+Unless otherwise stated in writing, all intellectual property created by or for the Leaders of Tomorrow Club is owned by the Club or its respective creators and protected under applicable copyright, trademark, and intellectual property laws.
+
+This includes, but is not limited to:
+
+Platform architecture
+Website design
+User interface
+User experience
+Documentation
+Internal policies
+Branding
+Digital badges
+QR ticket templates
+Educational content
+Event materials
+Administrative documents
+Promotional assets
+
+Nothing in this Policy transfers ownership unless explicitly agreed in writing.
+
+5. Club Name, Logo & Brand Identity
+
+The following are protected assets of the Club:
+
+Leaders of Tomorrow name
+Club logo
+Official slogan
+Brand colors
+Typography
+Icons
+Graphic identity
+Digital badge design
+Certificate templates
+Official social media branding
+
+No person or organization may reproduce, modify, imitate, or use these assets without prior written authorization from the Executive Board.
+
+Unauthorized use may result in legal or disciplinary action.
+
+6. Website & Platform Content
+
+Unless otherwise indicated, all content published on the Platform is protected by copyright.
+
+This includes:
+
+Policies
+Articles
+Announcements
+Images
+Videos
+Graphics
+Icons
+Illustrations
+User interface elements
+Databases
+Documentation
+Event descriptions
+Educational resources
+
+Users may access this content for personal, educational, and non-commercial purposes, subject to this Policy.
+
+7. Source Code & Software
+
+The software powering the Leaders of Tomorrow Platform, including its source code, database structures, APIs, scripts, interfaces, and technical documentation, is protected by intellectual property laws.
+
+Unless a component is expressly released under an approved open-source license:
+
+Copying is prohibited.
+Reverse engineering is prohibited.
+Redistribution is prohibited.
+Commercial reuse is prohibited.
+Modification is prohibited without authorization.
+
+Developers contributing code to the Platform acknowledge that ownership and licensing arrangements will be governed by their contributor agreement or other written agreement with the Club.
+
+8. Educational Materials
+
+Educational materials produced by the Club may include:
+
+Training manuals
+Presentation slides
+Workshop guides
+Tutorials
+Research summaries
+Learning resources
+Leadership materials
+
+These materials may be shared for personal educational use.
+
+Commercial redistribution or modification requires written authorization.
+
+Proper attribution should always be provided when permitted.
+
+9. Photographs & Videos
+
+Photographs and videos captured during Club activities remain the intellectual property of the Club or the designated photographer unless otherwise agreed.
+
+The Club may use such media for:
+
+Website publications
+Social media
+Annual reports
+Marketing
+Educational documentation
+Historical archives
+
+Participants retain any rights granted to them under applicable law, including legitimate privacy rights.
+
+10. Member-Generated Content
+
+Members retain ownership of content they create and submit, including:
+
+Articles
+Presentations
+Research
+Portfolio materials
+Project submissions
+Creative works
+
+By submitting content to the Platform, members grant the Club a non-exclusive, worldwide, royalty-free license to:
+
+Store the content.
+Display it within the Platform.
+Use it for Club activities.
+Archive it.
+Promote Club programs where appropriate.
+
+Ownership remains with the member unless transferred by written agreement.
+
+11. AI-Generated Content
+
+The Platform may incorporate AI-assisted tools.
+
+Content created with AI remains the responsibility of the user who generated or submitted it.
+
+Users must ensure that AI-generated material:
+
+Does not infringe third-party rights.
+Is accurate where factual claims are made.
+Complies with Club policies.
+Does not contain unlawful or harmful material.
+
+The Club does not claim ownership of AI-generated content solely because it was created using AI tools available through the Platform, unless otherwise agreed.
+
+12. Event Materials
+
+Event-related intellectual property may include:
+
+Posters
+Agendas
+Presentations
+Speaker materials
+Workshop content
+Videos
+Livestream recordings
+Promotional graphics
+Event branding
+
+Ownership remains with the original creator unless transferred by agreement.
+
+The Club may archive and display event materials for educational, historical, and promotional purposes, subject to applicable rights.
+
+13. Digital Membership Badges
+
+Digital badges issued by the Club are official membership credentials.
+
+They remain the property of the Club.
+
+Members receive a limited, non-transferable license to display their own valid badge for identification purposes.
+
+Members must not:
+
+Modify badges.
+Duplicate badges.
+Sell badges.
+Share badges.
+Use expired or revoked badges.
+Create counterfeit badges.
+14. Certificates
+
+Certificates issued by the Club are official documents verifying participation or achievement.
+
+Certificate holders may:
+
+Download certificates.
+Print certificates.
+Include certificates in portfolios, résumés, or professional profiles.
+
+Certificates must not be:
+
+Altered.
+Forged.
+Sold.
+Misrepresented.
+Used after revocation.
+
+The Club reserves the right to revoke certificates issued in error or obtained through fraud.
+
+15. Sponsorship & Partner Content
+
+Sponsors and partners retain ownership of their own logos, trademarks, and promotional materials.
+
+The Club may use such materials only:
+
+With authorization.
+As provided in a sponsorship or partnership agreement.
+For agreed promotional purposes.
+
+Likewise, sponsors and partners may use the Club's branding only as authorized.
+
+16. Permitted Use
+
+Unless otherwise prohibited, users may:
+
+View Platform content.
+Download publicly available resources for personal use.
+Share official publications with proper attribution.
+Display their own certificates and digital badges.
+Reference Club activities in résumés and portfolios.
+
+Any use beyond these purposes requires prior written permission.
+
+17. Prohibited Use
+
+Users must not:
+
+Copy substantial portions of the Platform without authorization.
+Reproduce Club branding.
+Sell Club content.
+Modify official documents.
+Remove copyright notices.
+Claim Club content as their own.
+Use Club materials for unlawful purposes.
+Misrepresent affiliation with the Club.
+Scrape or extract Platform content using automated tools without authorization.
+18. Copyright Infringement Reports
+
+If you believe that content on the Platform infringes your intellectual property rights, you may submit a written notice including:
+
+Identification of the copyrighted work.
+Description of the allegedly infringing content.
+URL or location of the content.
+Contact information.
+A statement made in good faith that the use is unauthorized.
+A statement that the information provided is accurate.
+
+The Club will review reports promptly and take appropriate action where warranted.
+
+19. Repeat Infringers
+
+Users who repeatedly infringe intellectual property rights or violate this Policy may be subject to:
+
+Content removal.
+Suspension of Platform privileges.
+Membership suspension.
+Termination of membership.
+Additional legal action where appropriate.
+20. Open Source Software
+
+The Platform may incorporate open-source software components.
+
+Such components remain subject to their respective open-source licenses.
+
+Nothing in this Policy overrides the terms of any applicable open-source license.
+
+Where required, the Club will provide appropriate notices and attributions.
+
+21. Third-Party Intellectual Property
+
+The Platform may display third-party trademarks, logos, or content with permission or under applicable law.
+
+Ownership remains with the respective rights holders.
+
+Users should not assume that third-party content may be reused without authorization.
+
+22. Moral Rights
+
+Where recognized by applicable law, creators retain their moral rights, including the right to be identified as the author of their work and to object to derogatory treatment of that work.
+
+Nothing in this Policy is intended to waive such rights unless expressly agreed in writing.
+
+23. License Granted by Users
+
+By submitting content to the Platform, users grant the Club a limited, non-exclusive, worldwide, royalty-free license to host, reproduce, display, adapt (where technically necessary), archive, and distribute the content solely for purposes related to the operation, promotion, and educational activities of the Club.
+
+This license ends when the content is deleted, except where retention is required by law, necessary for legitimate archival purposes, or where copies remain in routine backups.
+
+24. Policy Updates
+
+The Club may update this Policy periodically to reflect changes in law, technology, or Club operations.
+
+The current version will always be available on the Platform.
+
+Continued use of the Platform after updates take effect constitutes acceptance of the revised Policy.
+
+25. Contact Information
+
+Questions regarding copyright, trademarks, intellectual property, licensing, or permission requests should be directed to the official contact channels published on the Leaders of Tomorrow Platform.
+
+26. Acceptance
+
+By using the Platform, submitting content, downloading resources, participating in Club activities, or otherwise interacting with the Leaders of Tomorrow Club, you acknowledge that:
+
+You have read and understood this Copyright & Intellectual Property Policy.
+You agree to respect the intellectual property rights of the Club, its members, sponsors, partners, and third parties.
+You understand that violations may result in content removal, suspension of Platform privileges, disciplinary measures, or legal action where appropriate.
+
+Electronic acceptance of this Policy through the Leaders of Tomorrow Platform shall have the same legal effect as a handwritten signature, subject to applicable law.
+
